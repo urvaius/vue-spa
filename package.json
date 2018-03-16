@@ -1,0 +1,28 @@
+{
+  "name": "vue-spa",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urvaius/vue-spa.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "vue": "^2.4.2"
+  },
+  "devDependencies": {
+    "webpack": "^3.5.5",
+    "webpack-dev-middleware": "^1.12.0",
+    "webpack-hot-middleware": "^2.18.2"
+  },
+  "bugs": {
+    "url": "https://github.com/urvaius/vue-spa/issues"
+  },
+  "homepage": "https://github.com/urvaius/vue-spa#readme"
+}
